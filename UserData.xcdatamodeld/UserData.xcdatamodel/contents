@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15E65" minimumToolsVersion="Xcode 7.0">
+    <entity name="UserData" representedClassName=".UserData" syncable="YES">
+        <attribute name="contactMailaddress1" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="contactMailaddress2" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="contactMailaddress3" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="contactName1" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="contactName2" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="contactName3" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="doctorFlag" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="gestationalDay" optional="YES" attributeType="Date" defaultDateTimeInterval="-31588564739" syncable="YES"/>
+        <attribute name="helperFlag" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="hospitalDoctor" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="hospitalName" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="hospitalPhoneNumber" optional="YES" attributeType="String" defaultValueString="default" syncable="YES"/>
+        <attribute name="memo" optional="YES" attributeType="String" defaultValueString="未設定" syncable="YES"/>
+        <attribute name="myAddress" optional="YES" attributeType="String" defaultValueString="未設定" syncable="YES"/>
+        <attribute name="myBirthday" optional="YES" attributeType="Date" defaultDateTimeInterval="-31588564739" syncable="YES"/>
+        <attribute name="myBloodType" optional="YES" attributeType="String" defaultValueString="未設定" syncable="YES"/>
+        <attribute name="myName" optional="YES" attributeType="String" defaultValueString="未設定" syncable="YES"/>
+        <attribute name="myPhoneNumber" optional="YES" attributeType="String" defaultValueString="未設定" syncable="YES"/>
+        <attribute name="ninpuAllergy" optional="YES" attributeType="String" defaultValueString="未設定" syncable="YES"/>
+        <attribute name="ninpuFlag" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="ninpuSoundFlag" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="notifyToFamilyFlag" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="notifyToHelperFlag" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="tmp" optional="YES" attributeType="String" defaultValueString="tmp" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UserData" positionX="-63" positionY="-18" width="128" height="405"/>
+    </elements>
+</model>
